@@ -1,2 +1,3 @@
 # Desafio-1---Trilhas-BackEnd
 Desafio do Sistema PDV com Descontos
+Este projeto consiste em um Sistema de Ponto de Venda (PDV) desenvolvido em Python, com o objetivo de registrar compras, calcular descontos automaticamente e gerar relatórios de vendas. O sistema oferece descontos com base na idade do cliente e no valor do produto, além de armazenar o histórico das compras e apresentar informações como total bruto, descontos concedidos e valor final das vendas. O projeto utiliza conceitos fundamentais de programação, como estruturas condicionais (if/elif/else), laços de repetição (while), listas, dicionários e operações matemáticas.
